@@ -37,7 +37,7 @@ float: right;
 }
 
  .navbar .navbar-nav li a:hover{
-  color:darkblue;
+  color:black;
   font-weight: bold;
 } 
 .nav-link {
@@ -45,6 +45,6 @@ float: right;
 }
 
 .nav-link:hover {
-  border-bottom: 5px solid darkblue;
+  border-bottom: 5px solid black;
 }
 
