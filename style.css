@@ -1,0 +1,50 @@
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200;
+  height:auto;
+  margin-bottom: 2px;
+}
+.logo1{
+  background-color:white;
+}
+.logo2{
+  width: 45;
+  height:45;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 3px;
+}
+
+.navbar{
+  font-family: 'Roboto', sans-serif;
+  font-size: large;
+  height: 60px;
+ 
+}
+.navbar-brand{
+  margin-left: 30px;
+  font-weight: bold;
+}
+.img1{
+ max-width: 100%;
+  height:auto;
+  display:block;
+}
+.collapse .navbar-collapse {
+float: right;
+}
+
+ .navbar .navbar-nav li a:hover{
+  color:darkblue;
+  font-weight: bold;
+} 
+.nav-link {
+  border-bottom: 5px solid transparent;
+}
+
+.nav-link:hover {
+  border-bottom: 5px solid darkblue;
+}
+
